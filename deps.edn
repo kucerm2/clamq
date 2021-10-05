@@ -1,1 +1,4 @@
-{}
+{:deps {
+  clamq/clamq-core {:local/root "/clamq-core"}
+  clamq/clamq-activemq {:local/root "clamq-activemq"} 
+}}
